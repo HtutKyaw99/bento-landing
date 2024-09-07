@@ -1,7 +1,7 @@
 const App = () => {
   return (
     <main>
-      <h1>Hello From React!</h1>
+      <h1>Hello From Bento!</h1>
     </main>
   );
 };
