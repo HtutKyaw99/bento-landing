@@ -2,4 +2,4 @@ About a week ago, I found an interest in web animations, which led me to explore
 
 I use React . Tailwind . and TS
 
-And this designed is heavily inpired by an brilliant Web designer called dls_design on IG. I do not owned any assets here. All come from @sirreal.ai
+And this designed is heavily inpired by a brilliant Web designer called dls_design on IG. I do not owned any assets here. All come from @sirreal.ai
