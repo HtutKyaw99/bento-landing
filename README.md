@@ -1,30 +1,5 @@
-# React + TypeScript + Vite
+About a week ago, I found an interest in web animations, which led me to explore online. During my search, I discovered Framer. After learning the basics of Framer, I wanted to put my new skills to use. So, I built this landing page using Framer along with the Bento grid layout, which is currently a trending web design approach.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I use React . Tailwind . and TS
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+And this designed is heavily inpired by an brilliant Web designer called dls_design on IG. I do not owned any assets here. All come from @sirreal.ai
