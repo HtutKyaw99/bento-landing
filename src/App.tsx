@@ -1,7 +1,9 @@
+import Home from "./pages/Home";
+
 const App = () => {
   return (
     <main>
-      <h1>Hello From Bento!</h1>
+      <Home />
     </main>
   );
 };
