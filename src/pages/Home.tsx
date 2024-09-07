@@ -1,11 +1,12 @@
+import LayoutB from "../components/LayoutB";
 import Navbar from "../components/Navbar";
 
 const Home = () => {
   return (
-    <main>
+    <section className="h-screen w-full px-4 py-2">
       <Navbar />
-      <h1>Home Page</h1>
-    </main>
+      <LayoutB />
+    </section>
   );
 };
 
